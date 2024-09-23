@@ -16,7 +16,7 @@ A simple python program for simple image effects
 
 
 ## Future Plans
-+ More modular programming (so it is easier to add Effects (currently you need to put the effect in the `Effects` folder and reference it in the `EffectsFinder.py`
-+ Making the programm more bug-proof
-+ Faster Image processing
-+ Better Layout and Design
+- [ ] More modular programming (so it is easier to add Effects (currently you need to put the effect in the `Effects` folder and reference it in the `EffectsFinder.py`
+- [ ] Making the programm more bug-proof
+- [ ] Faster Image processing
+- [ ] Better Layout and Design
