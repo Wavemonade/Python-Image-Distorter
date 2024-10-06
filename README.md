@@ -3,6 +3,17 @@ A simple python program for simple image effects
 
 ![Image Distorter Img](https://github.com/user-attachments/assets/9bbeb36f-e266-4295-99ad-a463586b06c5)
 
+## Dependencies:
+- tkinter
+- PIL / Pillow
+  
+both can be installed through the console using
+
+```
+pip install tk
+pip install pillow
+```
+
 ## How to use it
 1. Run the `ImageDistorted.py` file (e.g.: running it through the python console or code editors like Visual Studio Code)
 2. Pick an Image with the `Change Directory` Button
